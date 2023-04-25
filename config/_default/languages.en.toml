@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Jerad Acosta"
+logo = "img/driver.png"
+description = "The personal website and digital portfolio of Jerad Steven Acosta"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Jerad here..."
+  image = "img/driver.png"
+  headline = "Welcome to my digital abode."
+  bio = "Hope you enjoy the stay"
+  links = [
+    { twitter = "https://twitter.com/irjerad" },
+    { facebook = "https://facebook.com/jeradacosta"},
+    { github = "https://github.com/nunocoracao/irjerad" },
+  ]
