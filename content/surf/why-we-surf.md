@@ -6,7 +6,6 @@ summary: "In looking back at why it is I surf I have found interesting motivatio
 tags: ["surf", "mom", "family", "positivity", "health"]
 showDate: true
 type: 'surf'
-showAuthor: true
 ---
 
 {{< lead >}}

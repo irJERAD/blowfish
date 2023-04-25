@@ -66,6 +66,12 @@
   weight = 53
 
 [[main]]
+  name = "Photography"
+  parent = "Pastime"
+  pageRef = "photography"
+  weight = 54
+
+[[main]]
   name = "Users"
   pageRef = "users"
   weight = 90

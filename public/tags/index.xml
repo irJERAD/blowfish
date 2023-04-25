@@ -1,450 +1,495 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
-    <link>https://nunocoracao.github.io/blowfish/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <title>Tags on Jerad Acosta</title>
+    <link>https://jerad.xyz/tags/</link>
+    <description>Recent content in Tags on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nunocoracao.github.io/blowfish/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>family</title>
+      <link>https://jerad.xyz/tags/family/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://jerad.xyz/tags/health/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mom</title>
+      <link>https://jerad.xyz/tags/mom/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/mom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positivity</title>
+      <link>https://jerad.xyz/tags/positivity/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/positivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surf</title>
+      <link>https://jerad.xyz/tags/surf/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/surf/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>authors</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/authors/</link>
+      <link>https://jerad.xyz/tags/authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/authors/</guid>
+      <guid>https://jerad.xyz/tags/authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sample</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/sample/</link>
+      <link>https://jerad.xyz/tags/sample/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/sample/</guid>
+      <guid>https://jerad.xyz/tags/sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thumbnail</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/thumbnail/</link>
+      <link>https://jerad.xyz/tags/thumbnail/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/thumbnail/</guid>
+      <guid>https://jerad.xyz/tags/thumbnail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/docs/</link>
+      <link>https://jerad.xyz/tags/docs/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/docs/</guid>
+      <guid>https://jerad.xyz/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>new</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/new/</link>
+      <link>https://jerad.xyz/tags/new/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/new/</guid>
+      <guid>https://jerad.xyz/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>installation</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/installation/</link>
+      <link>https://jerad.xyz/tags/installation/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/installation/</guid>
+      <guid>https://jerad.xyz/tags/installation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>config</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/config/</link>
+      <link>https://jerad.xyz/tags/config/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/config/</guid>
+      <guid>https://jerad.xyz/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icons</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/icons/</link>
+      <link>https://jerad.xyz/tags/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/icons/</guid>
+      <guid>https://jerad.xyz/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/shortcodes/</link>
+      <link>https://jerad.xyz/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/shortcodes/</guid>
+      <guid>https://jerad.xyz/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>users</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/users/</link>
+      <link>https://jerad.xyz/tags/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/users/</guid>
+      <guid>https://jerad.xyz/tags/users/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homepage</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/homepage/</link>
+      <link>https://jerad.xyz/tags/homepage/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/homepage/</guid>
+      <guid>https://jerad.xyz/tags/homepage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>layouts</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/layouts/</link>
+      <link>https://jerad.xyz/tags/layouts/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/layouts/</guid>
+      <guid>https://jerad.xyz/tags/layouts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>front matter</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/front-matter/</link>
+      <link>https://jerad.xyz/tags/front-matter/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/front-matter/</guid>
+      <guid>https://jerad.xyz/tags/front-matter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icon</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/icon/</link>
+      <link>https://jerad.xyz/tags/icon/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/icon/</guid>
+      <guid>https://jerad.xyz/tags/icon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lead</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/lead/</link>
+      <link>https://jerad.xyz/tags/lead/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/lead/</guid>
+      <guid>https://jerad.xyz/tags/lead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mermaid</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/mermaid/</link>
+      <link>https://jerad.xyz/tags/mermaid/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/mermaid/</guid>
+      <guid>https://jerad.xyz/tags/mermaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>analytics</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/analytics/</link>
+      <link>https://jerad.xyz/tags/analytics/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/analytics/</guid>
+      <guid>https://jerad.xyz/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>comments</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/comments/</link>
+      <link>https://jerad.xyz/tags/comments/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/comments/</guid>
+      <guid>https://jerad.xyz/tags/comments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>favicons</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/favicons/</link>
+      <link>https://jerad.xyz/tags/favicons/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/favicons/</guid>
+      <guid>https://jerad.xyz/tags/favicons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>partials</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/partials/</link>
+      <link>https://jerad.xyz/tags/partials/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/partials/</guid>
+      <guid>https://jerad.xyz/tags/partials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/privacy/</link>
+      <link>https://jerad.xyz/tags/privacy/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/privacy/</guid>
+      <guid>https://jerad.xyz/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>content</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/content/</link>
+      <link>https://jerad.xyz/tags/content/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/content/</guid>
+      <guid>https://jerad.xyz/tags/content/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/example/</link>
+      <link>https://jerad.xyz/tags/example/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/example/</guid>
+      <guid>https://jerad.xyz/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>series</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/series/</link>
+      <link>https://jerad.xyz/tags/series/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/series/</guid>
+      <guid>https://jerad.xyz/tags/series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/advanced/</link>
+      <link>https://jerad.xyz/tags/advanced/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/advanced/</guid>
+      <guid>https://jerad.xyz/tags/advanced/</guid>
       <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/css/</link>
+      <link>https://jerad.xyz/tags/css/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/css/</guid>
+      <guid>https://jerad.xyz/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deployment</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/deployment/</link>
+      <link>https://jerad.xyz/tags/deployment/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/deployment/</guid>
+      <guid>https://jerad.xyz/tags/deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/github/</link>
+      <link>https://jerad.xyz/tags/github/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/github/</guid>
+      <guid>https://jerad.xyz/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosting</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/hosting/</link>
+      <link>https://jerad.xyz/tags/hosting/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/hosting/</guid>
+      <guid>https://jerad.xyz/tags/hosting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>netlify</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/netlify/</link>
+      <link>https://jerad.xyz/tags/netlify/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/netlify/</guid>
+      <guid>https://jerad.xyz/tags/netlify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>render</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/render/</link>
+      <link>https://jerad.xyz/tags/render/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/render/</guid>
+      <guid>https://jerad.xyz/tags/render/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firebase</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/firebase/</link>
+      <link>https://jerad.xyz/tags/firebase/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/firebase/</guid>
+      <guid>https://jerad.xyz/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>likes</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/likes/</link>
+      <link>https://jerad.xyz/tags/likes/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/likes/</guid>
+      <guid>https://jerad.xyz/tags/likes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>views</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/views/</link>
+      <link>https://jerad.xyz/tags/views/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/views/</guid>
+      <guid>https://jerad.xyz/tags/views/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/html/</link>
+      <link>https://jerad.xyz/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/html/</guid>
+      <guid>https://jerad.xyz/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/markdown/</link>
+      <link>https://jerad.xyz/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/markdown/</guid>
+      <guid>https://jerad.xyz/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gist</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/gist/</link>
+      <link>https://jerad.xyz/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/gist/</guid>
+      <guid>https://jerad.xyz/tags/gist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>twitter</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/twitter/</link>
+      <link>https://jerad.xyz/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/twitter/</guid>
+      <guid>https://jerad.xyz/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vimeo</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/vimeo/</link>
+      <link>https://jerad.xyz/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/vimeo/</guid>
+      <guid>https://jerad.xyz/tags/vimeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/youtube/</link>
+      <link>https://jerad.xyz/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/youtube/</guid>
+      <guid>https://jerad.xyz/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>latin</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/latin/</link>
+      <link>https://jerad.xyz/tags/latin/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/latin/</guid>
+      <guid>https://jerad.xyz/tags/latin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/text/</link>
+      <link>https://jerad.xyz/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/text/</guid>
+      <guid>https://jerad.xyz/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>katex</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/katex/</link>
+      <link>https://jerad.xyz/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/katex/</guid>
+      <guid>https://jerad.xyz/tags/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maths</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/maths/</link>
+      <link>https://jerad.xyz/tags/maths/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/maths/</guid>
+      <guid>https://jerad.xyz/tags/maths/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chart</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/chart/</link>
+      <link>https://jerad.xyz/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/chart/</guid>
+      <guid>https://jerad.xyz/tags/chart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diagram</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/diagram/</link>
+      <link>https://jerad.xyz/tags/diagram/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/diagram/</guid>
+      <guid>https://jerad.xyz/tags/diagram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graph</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/graph/</link>
+      <link>https://jerad.xyz/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/graph/</guid>
+      <guid>https://jerad.xyz/tags/graph/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/emoji/</link>
+      <link>https://jerad.xyz/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/emoji/</guid>
+      <guid>https://jerad.xyz/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>template</title>
-      <link>https://nunocoracao.github.io/blowfish/tags/template/</link>
+      <link>https://jerad.xyz/tags/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/tags/template/</guid>
+      <guid>https://jerad.xyz/tags/template/</guid>
       <description></description>
     </item>
     

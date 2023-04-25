@@ -4,7 +4,7 @@ description: "My surf related content"
 
 cascade:
   showDate: false
-  showAuthor: false
+  showAuthor: true
   invertPagination: true
 ---
 
