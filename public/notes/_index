@@ -1,0 +1,21 @@
+---
+title: "Class Notes"
+description: "A collection of notes from my efforts in continued education "
+showSeries: true
+
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
+  showSeries: true
+---
+
+{{< lead >}}
+Here are the notes I have for any of the classes I am taking
+{{< /lead >}}
+
+I have been focusing on getting certified in the areas of software development including data analytics, data science, and iOS mobile development.
+<br><br>
+This page serves as a repository for all my class notes
+
+---
