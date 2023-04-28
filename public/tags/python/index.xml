@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Jerad Acosta</title>
+    <link>https://jerad.xyz/tags/python/</link>
+    <description>Recent content in python on Jerad Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatidata Project Lab</title>
+      <link>https://jerad.xyz/notes/automatidata-project-lab/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/automatidata-project-lab/</guid>
+      <description>Automatidata project # Course 2 - Get Started with Python
+Course 2 end-of-course project: Inspect and analyze data # In this activity, you will examine data provided and prepare it for analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
