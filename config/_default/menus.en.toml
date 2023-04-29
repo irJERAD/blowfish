@@ -84,12 +84,12 @@
 [[main]]
   name = "Merch"
   url = "http://tee.pub/lic/qwSlWVBL5zc"
-  weight = 80
+  weight = 100
 
 [[main]]
   name = "Samples"
   pageRef = "samples"
-  weight = 90
+  weight = 110
 
 #[[main]]
 #  name = "Test"
@@ -97,22 +97,28 @@
 #  weight = 1000
 
 [[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/irjerad"
   weight = 60
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://linkedin.com/in/jeradacosta"
+  weight = 70
 
 [[main]]
   identifier = "facebook"
   pre = "facebook"
-  url = "https://masto.ai/@blowfish"
-  weight = 70
+  url = "https://facebook.com/jeradacosta"
+  weight = 80
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 80
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/irjerad"
+  weight = 90
 
 
 # -- Footer Menu --
