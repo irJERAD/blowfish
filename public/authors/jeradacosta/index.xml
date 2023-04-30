@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerad Acosta</title>
+    <link>https://jerad.xyz/authors/jeradacosta/</link>
+    <description>Recent content on Jerad Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/authors/jeradacosta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Import Datasets with Python</title>
+      <link>https://jerad.xyz/notes/import-datasets-with-python/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/import-datasets-with-python/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Python Functions for the Discovery of a Dataset</title>
+      <link>https://jerad.xyz/notes/python-functions-for-the-discovery-of-a-dataset/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/python-functions-for-the-discovery-of-a-dataset/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>The Exploratory Data Analysis Process</title>
+      <link>https://jerad.xyz/notes/the-eda-process/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/the-eda-process/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Unicorn Dataset Discovery</title>
+      <link>https://jerad.xyz/notes/unicorn-dataset-discovery/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/unicorn-dataset-discovery/</guid>
+      <description>Exemplar: Discover what is in your dataset # Introduction # In this activity, you will discover characteristics of a dataset and use visualizations to analyze the data. This will develop and strengthen your skills in exploratory data analysis (EDA) and your knowledge of functions that allow you to explore and visualize data.</description>
+    </item>
+    
+    <item>
+      <title>Automatidata Project Lab</title>
+      <link>https://jerad.xyz/notes/automatidata-project-lab/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/automatidata-project-lab/</guid>
+      <description>Automatidata project # Course 2 - Get Started with Python
+Course 2 end-of-course project: Inspect and analyze data # In this activity, you will examine data provided and prepare it for analysis.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis Using Basic Data Functions with Python</title>
+      <link>https://jerad.xyz/notes/eda-using-basic-data-functions-with-python/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/eda-using-basic-data-functions-with-python/</guid>
+      <description>Discovering # Throughout the following exercises, you will implement discovering skills on a dataset. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+    </item>
+    
+    <item>
+      <title>Automatidata Executive Summary</title>
+      <link>https://jerad.xyz/notes/automatidata-executive-summary/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/automatidata-executive-summary/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Automatidata Preliminary Summary</title>
+      <link>https://jerad.xyz/notes/atuomatidata-wildfire-prediction-preliminary-summary/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/atuomatidata-wildfire-prediction-preliminary-summary/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Automatidata Project Proposal</title>
+      <link>https://jerad.xyz/notes/automatidata-project-proposal/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/automatidata-project-proposal/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Course 1 Terms and Definitions</title>
+      <link>https://jerad.xyz/notes/course1-terms-and-definitions/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/course1-terms-and-definitions/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Course 1 Terms and Definitions</title>
+      <link>https://jerad.xyz/notes/course2-terms-and-definitions-copy/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/course2-terms-and-definitions-copy/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>PACE Strategy Document</title>
+      <link>https://jerad.xyz/notes/pace-strategy-document/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/pace-strategy-document/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://jerad.xyz/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/samples/multiple-authors/</guid>
+      <description>A quick example of how multiple authors could be used.</description>
+    </item>
+    
+  </channel>
+</rss>

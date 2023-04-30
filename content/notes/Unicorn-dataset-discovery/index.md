@@ -3,6 +3,9 @@ title: "Unicorn Dataset Discovery"
 date: 2023-04-29
 draft: false
 description: "exploratory data analysis on the Unicorn dataset"
+showAuthor: true
+authors:
+  - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
 series: ["Foundations of Data Science"]

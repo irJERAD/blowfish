@@ -4,7 +4,7 @@ description: "A collection of notes from my efforts in continued education "
 
 cascade:
   showDate: false
-  showAuthor: false
+  showAuthor: true
   invertPagination: true
 ---
 

@@ -3,6 +3,9 @@ title: "Exploratory Data Analysis Using Basic Data Functions with Python"
 date: 2023-04-27
 draft: false
 description: "basic python functions for exploratory data analysis"
+showAuthor: true
+authors:
+  - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
 series: ["Foundations of Data Science"]

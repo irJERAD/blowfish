@@ -3,6 +3,9 @@ title: "Automatidata Project Lab"
 date: 2023-04-27
 draft: false
 description: "The final lab for course 2"
+showAuthor: true
+authors:
+  - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
 series: ["Foundations of Data Science"]

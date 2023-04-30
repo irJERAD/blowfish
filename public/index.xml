@@ -416,5 +416,35 @@ How to start? # This is a template article that will explain how to create a new
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jerad.xyz/guides/template/cover.png" />
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jerad.xyz/notes/eda-structuring-with-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/eda-structuring-with-python/</guid>
+      <description>Data Structuring # Throughout the following exercises, you will practice structuring data in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jerad.xyz/notes/manipulate-date-strings-with-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/manipulate-date-strings-with-python/</guid>
+      <description>Manipulate strings # Throughout the following exercises, you will practice manipulating date strings in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jerad.xyz/notes/structure-your-data-unicorn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/notes/structure-your-data-unicorn/</guid>
+      <description>Exemplar: Structure your data # Introduction # In this activity, you will practice structuring, an exploratory data analysis (EDA) step that helps data science projects move forward. During EDA, when working with data that contains aspects of date and time, &amp;ldquo;datetime&amp;rdquo; transformations are integral to better understanding the data.</description>
+      
+    </item>
+    
   </channel>
 </rss>

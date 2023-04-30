@@ -5,10 +5,11 @@ draft: false
 description: "Sample for a multiple author setup"
 tags: ["authors", "sample"]
 summary: "A quick example of how multiple authors could be used."
-showAuthor: false
+showAuthor: true
 authors:
   - "nunocoracao"
   - "secondauthor"
+  - "jeradacosta"
 type: 'sample'
 ---
 

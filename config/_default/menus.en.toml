@@ -81,10 +81,10 @@
   pageRef = "users"
   weight = 90
 
-[[main]]
-  name = "Merch"
-  url = "http://tee.pub/lic/qwSlWVBL5zc"
-  weight = 100
+# [[main]]
+#   name = "Merch"
+#   url = "http://tee.pub/lic/qwSlWVBL5zc"
+#   weight = 100
 
 [[main]]
   name = "Samples"

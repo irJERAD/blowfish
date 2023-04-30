@@ -3,6 +3,9 @@ title: "PACE Strategy Document"
 date: 2023-04-26
 draft: false
 description: "a PACE strategy document for course 1"
+showAuthor: true
+authors:
+  - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "strategy", "planning"]
 series: ["Foundations of Data Science"]

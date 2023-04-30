@@ -3,6 +3,9 @@ title: "Import Datasets with Python"
 date: 2023-04-29
 draft: false
 description: "a guide for importing datasets in python"
+showAuthor: true
+authors:
+  - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "python", "guide"]
 series: ["Foundations of Data Science"]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 45 45" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:layerName="g">
+<path d="M15.1 22.45C15.1 18.3631 18.4131 15.05 22.5 15.05C26.5869 15.05 29.9 18.3631 29.9 22.45C29.9 26.5369 26.5869 29.85 22.5 29.85C18.4131 29.85 15.1 26.5369 15.1 22.45Z" fill="#fefdfd" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="circle"/>
+<g opacity="1" vectornator:layerName="g">
+<path d="M20.6 35.15C14.4 34.25 9.7 28.95 9.7 22.55C9.7 16.15 14.4 10.85 20.6 9.95L20.6 9.95C12.1 10.85 5.4 18.15 5.4 26.95C5.4 35.75 12 42.95 20.6 43.95L20.6 35.15Z" fill="#fefdfd" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M24.3 1.25L24.3 9.85C30.5 10.75 35.3 16.05 35.3 22.55C35.3 29.05 30.5 34.35 24.3 35.25L24.3 35.25C32.9 34.35 39.6 27.05 39.6 18.25C39.5 9.35 32.8 2.05 24.3 1.25Z" fill="#fefdfd" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+<g opacity="1" vectornator:layerName="g">
+<path d="M20.6 43.65C12.1 42.75 5.4 35.45 5.4 26.65C5.4 17.85 12 10.65 20.6 9.65L20.6 1.05C9.7 2.05 1.1 11.15 1.1 22.35C1.1 33.65 9.7 42.75 20.6 43.65L20.6 43.65Z" fill="#fefdfd" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M24.3 1.15L24.3 1.15C32.9 2.05 39.6 9.35 39.6 18.15C39.6 26.95 32.9 34.25 24.3 35.15L24.3 43.75C35.2 42.85 43.9 33.65 43.9 22.45C43.8 11.25 35.2 2.05 24.3 1.15Z" fill="#fefdfd" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</g>
+</svg>
