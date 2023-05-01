@@ -5,6 +5,50 @@
     
   
     
+  
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/resumes/data/</loc>
+            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/resumes/</loc>
+            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/resumes/consulting/</loc>
+            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/</loc>
+            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
       <url>
             <loc>https://jerad.xyz/notes/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
@@ -35,16 +79,12 @@
     
   
     
-  
-    
       <url>
             <loc>https://jerad.xyz/notes/python-functions-for-the-discovery-of-a-dataset/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
@@ -61,15 +101,6 @@
     
       <url>
             <loc>https://jerad.xyz/notes/unicorn-dataset-discovery/</loc>
-            <lastmod>2023-04-29T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://jerad.xyz/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -691,6 +722,8 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
 </urlset>

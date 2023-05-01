@@ -3,7 +3,15 @@ title: "Welcome to my digital abode :wave:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
 
-## Who am I?
+{{< typeit 
+  tag=h2
+  speed=200
+  breakLines=false
+  loop=true
+  lifeLike=true
+>}}
+Who am I..?
+{{< /typeit >}}
 
 As an adventurer I love to sail, surf, and when I can't hit the ocean I'll take my surfskate for a cruise. As an explorer I have lived up and down Califonia's coast - San Diego, Santa Barbara, San Francisco - as well as the South Pacific Island of Tahiti and New Zealand. As a life long learner I am in pursuit of my next certification or digging around the corners of a favorite pastime.
 
@@ -17,6 +25,20 @@ I work with young students in their mid-teens as a tutor. A [growth mindset](htt
 **University of California San Diego (UCSD)**  
 - B.S. Cognitive Science \| 2013  
 - M.n. Applied Mathematics \| 2013  
+
+
+### Continued Education  
+
+**Coursera**  
+- Google Data Analytics Professional Certification \| 2022  
+- Meta iOS Developer Certification \| 2023  
+
+**Fastai**  
+- [Practical Deep Learning](https://course.fast.ai) \| 2022  
+
+
+{{< list title="Work" limit=5 where="Type" value="resumes" >}}
+
 
 
 <!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
