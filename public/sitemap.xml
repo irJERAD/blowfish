@@ -5,15 +5,6 @@
     
   
     
-      <url>
-            <loc>https://jerad.xyz/notes/</loc>
-            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
   
     
   
@@ -28,7 +19,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/guide-dealing-with-missing-data-in-python/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-dealing-with-missing-data-in-python/</loc>
             <lastmod>2023-05-01T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -37,6 +28,15 @@
   
     
   
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/</loc>
+            <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -80,7 +80,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/import-datasets-with-python/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/import-datasets-with-python/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -91,7 +91,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/python-functions-for-the-discovery-of-a-dataset/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/python-functions-for-the-discovery-of-a-dataset/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -100,7 +100,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/the-eda-process/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/the-eda-process/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -109,7 +109,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/unicorn-dataset-discovery/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/unicorn-dataset-discovery/</loc>
             <lastmod>2023-04-29T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -118,7 +118,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/automatidata-project-lab/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-lab/</loc>
             <lastmod>2023-04-27T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -127,7 +127,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/eda-using-basic-data-functions-with-python/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-using-basic-data-functions-with-python/</loc>
             <lastmod>2023-04-27T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -136,7 +136,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/automatidata-executive-summary/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-executive-summary/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -145,7 +145,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/atuomatidata-wildfire-prediction-preliminary-summary/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/atuomatidata-wildfire-prediction-preliminary-summary/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -154,7 +154,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/automatidata-project-proposal/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-proposal/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -163,7 +163,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/course1-terms-and-definitions/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course1-terms-and-definitions/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -172,7 +172,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/course2-terms-and-definitions-copy/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course2-terms-and-definitions-copy/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -183,7 +183,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/pace-strategy-document/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/pace-strategy-document/</loc>
             <lastmod>2023-04-26T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -685,7 +685,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/eda-structuring-with-python/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/dealing-wth-missing-data-in-python-lab/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -693,7 +693,7 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/manipulate-date-strings-with-python/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-structuring-with-python/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -701,7 +701,23 @@
   
     
       <url>
-            <loc>https://jerad.xyz/notes/structure-your-data-unicorn/</loc>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-validate-and-clean-your-data/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/manipulate-date-strings-with-python/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -720,6 +736,14 @@
     
       <url>
             <loc>https://jerad.xyz/ios/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jerad.xyz/courses/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
