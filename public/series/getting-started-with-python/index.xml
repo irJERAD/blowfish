@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started with Python on Jerad Acosta</title>
+    <link>https://jerad.xyz/series/getting-started-with-python/</link>
+    <description>Recent content in Getting Started with Python on Jerad Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/series/getting-started-with-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatidata Project Lab</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-lab/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-lab/</guid>
+      <description>Automatidata project # Course 2 - Get Started with Python
+Course 2 end-of-course project: Inspect and analyze data # In this activity, you will examine data provided and prepare it for analysis.</description>
+    </item>
+    
+    <item>
+      <title>Automatidata Executive Summary</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-executive-summary/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-executive-summary/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Automatidata Preliminary Summary</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/atuomatidata-wildfire-prediction-preliminary-summary/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/atuomatidata-wildfire-prediction-preliminary-summary/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Automatidata Project Proposal</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-proposal/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-proposal/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Course 1 Terms and Definitions</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course2-terms-and-definitions-copy/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course2-terms-and-definitions-copy/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

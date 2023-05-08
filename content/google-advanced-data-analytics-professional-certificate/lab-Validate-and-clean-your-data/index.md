@@ -1,3 +1,17 @@
+---
+title: "Validate and Clean Data with Python"
+date: 2023-05-06
+draft: false
+description: "data validation lab using python"
+showAuthor: true
+authors:
+  - "jeradacosta"
+slug:
+tags: ["Google Advanced Data Analytics Professional Certificate", "python", "lab"]
+series: ["Go Beyond the Numbers: Translate Data into Insights"]
+series_order: 9
+---
+
 # Exemplar: Validate and clean your data
 
 ## Introduction

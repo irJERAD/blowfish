@@ -8,7 +8,7 @@ authors:
   - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "planning"]
-series: ["Foundations of Data Science"]
+series: ["Getting Started with Python"]
 series_order: 3
 ---
 

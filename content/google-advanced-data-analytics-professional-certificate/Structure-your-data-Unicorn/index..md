@@ -1,3 +1,17 @@
+---
+title: "Structure Data with Python"
+date: 2023-05-06
+draft: false
+description: "data exploration lab using python"
+showAuthor: true
+authors:
+  - "jeradacosta"
+slug:
+tags: ["Google Advanced Data Analytics Professional Certificate", "python", "lab"]
+series: ["Get Started with Python"]
+series_order: 9
+---
+
 # Exemplar: Structure your data 
 
 ## Introduction

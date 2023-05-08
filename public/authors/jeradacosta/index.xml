@@ -6,7 +6,54 @@
     <description>Recent content on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/authors/jeradacosta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/authors/jeradacosta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Statistics with Python Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-introduction-to-statistics-with-python/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-introduction-to-statistics-with-python/</guid>
+      <description>Introduction to statistics with Python # Throughout the following exercises, you will learn to compute descriptive statistics to explore and summarize a dataset. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+    </item>
+    
+    <item>
+      <title>Data Exploration with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-go-beyond-the-numbers-tlc-data/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-go-beyond-the-numbers-tlc-data/</guid>
+      <description>Course 3 Automatidata project # Course 3 - Go Beyond the Numbers: Translate Data into Insights
+Welcome to the New York City Taxi project!
+You are the newest data professional in a fictional data analytics firm: Automatidata.</description>
+    </item>
+    
+    <item>
+      <title>Manipulate Date Strings with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/manipulate-date-strings-with-python/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/manipulate-date-strings-with-python/</guid>
+      <description>Manipulate strings # Throughout the following exercises, you will practice manipulating date strings in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+    </item>
+    
+    <item>
+      <title>Structure Data with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</guid>
+      <description>Exemplar: Structure your data # Introduction # In this activity, you will practice structuring, an exploratory data analysis (EDA) step that helps data science projects move forward. During EDA, when working with data that contains aspects of date and time, &amp;ldquo;datetime&amp;rdquo; transformations are integral to better understanding the data.</description>
+    </item>
+    
+    <item>
+      <title>Validate and Clean Data with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-validate-and-clean-your-data/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-validate-and-clean-your-data/</guid>
+      <description>Exemplar: Validate and clean your data # Introduction # In this activity, you will use input validation and label encoding to prepare a dataset for analysis. These are fundamental techniques used in all types of data analysis, from simple linear regression to complex neural networks.</description>
+    </item>
+    
     <item>
       <title>Data Analytics and Data Science Resume</title>
       <link>https://jerad.xyz/resumes/data/</link>

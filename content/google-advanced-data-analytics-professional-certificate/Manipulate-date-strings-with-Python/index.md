@@ -1,3 +1,17 @@
+---
+title: "Manipulate Date Strings with Python"
+date: 2023-05-06
+draft: false
+description: "using python to manipulate date string lab"
+showAuthor: true
+authors:
+  - "jeradacosta"
+slug:
+tags: ["Google Advanced Data Analytics Professional Certificate", "python", "lab"]
+series: ["Go Beyond the Numbers: Translate Data into Insights"]
+series_order: 9
+---
+
 # Manipulate strings
 
 Throughout the following exercises, you will practice manipulating date strings in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics. 

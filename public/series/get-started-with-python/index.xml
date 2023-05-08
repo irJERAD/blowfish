@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Started with Python on Jerad Acosta</title>
+    <link>https://jerad.xyz/series/get-started-with-python/</link>
+    <description>Recent content in Get Started with Python on Jerad Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/series/get-started-with-python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structure Data with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</guid>
+      <description>Exemplar: Structure your data # Introduction # In this activity, you will practice structuring, an exploratory data analysis (EDA) step that helps data science projects move forward. During EDA, when working with data that contains aspects of date and time, &amp;ldquo;datetime&amp;rdquo; transformations are integral to better understanding the data.</description>
+    </item>
+    
+  </channel>
+</rss>
