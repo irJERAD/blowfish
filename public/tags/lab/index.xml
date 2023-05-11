@@ -6,9 +6,18 @@
     <description>Recent content in lab on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Exploration with Python</title>
+      <title>Explore Descriptive Statistics with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/explore-descriptive-statistics/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/explore-descriptive-statistics/</guid>
+      <description>Exemplar: Explore descriptive statistics # Introduction # Data professionals often use descriptive statistics to understand the data they are working with and provide collaborators with a summary of the relative location of values in the data, as well an information about its spread.</description>
+    </item>
+    
+    <item>
+      <title>Go Beyond the Numbers TLC Data Lab</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-go-beyond-the-numbers-tlc-data/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
@@ -62,6 +71,24 @@ You are the newest data professional in a fictional data analytics firm: Automat
       <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/automatidata-project-lab/</guid>
       <description>Automatidata project # Course 2 - Get Started with Python
 Course 2 end-of-course project: Inspect and analyze data # In this activity, you will examine data provided and prepare it for analysis.</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Missing Data in Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/dealing-wth-missing-data-in-python-lab/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/dealing-wth-missing-data-in-python-lab/</guid>
+      <description>Exemplar: Address missing data # Introduction # The datasets that data professionals use to solve problems typically contain missing values, which must be dealt with in order to achieve clean, useful data.</description>
+    </item>
+    
+    <item>
+      <title>EDA Structuing with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-structuring-with-python/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-structuring-with-python/</guid>
+      <description>Data Structuring # Throughout the following exercises, you will practice structuring data in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
     </item>
     
     <item>

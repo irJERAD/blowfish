@@ -1,5 +1,5 @@
 ---
-title: "Data Exploration with Python"
+title: "Go Beyond the Numbers TLC Data Lab"
 date: 2023-05-06
 draft: false
 description: "data exploration lab using python"

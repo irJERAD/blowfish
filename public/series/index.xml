@@ -6,22 +6,13 @@
     <description>Recent content in Series on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Power of Statistics</title>
       <link>https://jerad.xyz/series/the-power-of-statistics/</link>
-      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/series/the-power-of-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Get Started with Python</title>
-      <link>https://jerad.xyz/series/get-started-with-python/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/series/get-started-with-python/</guid>
       <description></description>
     </item>
     
@@ -37,7 +28,7 @@
     <item>
       <title>Foundations of Data Science</title>
       <link>https://jerad.xyz/series/foundations-of-data-science/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/series/foundations-of-data-science/</guid>
       <description></description>

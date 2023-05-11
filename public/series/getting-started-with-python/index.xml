@@ -53,5 +53,14 @@ Course 2 end-of-course project: Inspect and analyze data # In this activity, you
       <description> </description>
     </item>
     
+    <item>
+      <title>Datetime Manipulation Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/datetime-manipulation-guide/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/datetime-manipulation-guide/</guid>
+      <description> </description>
+    </item>
+    
   </channel>
 </rss>

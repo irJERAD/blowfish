@@ -1,3 +1,17 @@
+---
+title: "Dealing with Missing Data in Python"
+date: 2023-04-27
+draft: false
+description: "dealing with missing data in python lab"
+showAuthor: true
+authors:
+  - "jeradacosta"
+slug:
+tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
+series: ["Go Beyond the Numbers: Translate Data into Insights"]
+series_order: 10
+---
+
 # Exemplar: Address missing data 
 
 ## Introduction

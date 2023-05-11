@@ -8,7 +8,7 @@ authors:
   - "jeradacosta"
 slug:
 tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
-series: ["Foundations of Data Science"]
+series: ["Go Beyond the Numbers: Translate Data into Insights"]
 series_order: 10
 ---
 

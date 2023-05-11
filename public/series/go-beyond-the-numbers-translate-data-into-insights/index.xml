@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/series/go-beyond-the-numbers-translate-data-into-insights/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Exploration with Python</title>
+      <title>Go Beyond the Numbers TLC Data Lab</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-go-beyond-the-numbers-tlc-data/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
@@ -28,12 +28,85 @@ You are the newest data professional in a fictional data analytics firm: Automat
     </item>
     
     <item>
+      <title>Structure Data with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/structure-your-data-unicorn/</guid>
+      <description>Exemplar: Structure your data # Introduction # In this activity, you will practice structuring, an exploratory data analysis (EDA) step that helps data science projects move forward. During EDA, when working with data that contains aspects of date and time, &amp;ldquo;datetime&amp;rdquo; transformations are integral to better understanding the data.</description>
+    </item>
+    
+    <item>
       <title>Validate and Clean Data with Python</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-validate-and-clean-your-data/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-validate-and-clean-your-data/</guid>
       <description>Exemplar: Validate and clean your data # Introduction # In this activity, you will use input validation and label encoding to prepare a dataset for analysis. These are fundamental techniques used in all types of data analysis, from simple linear regression to complex neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Missing Data in Python Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-dealing-with-missing-data-in-python/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-dealing-with-missing-data-in-python/</guid>
+      <description>Note: This notebook is used in the following four videos: # Work with missing data in a Python notebook 🠚 jump to notebook section
+Identify and deal with outliers in Python 🠚 jump to notebook section</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Missing Data in Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/dealing-wth-missing-data-in-python-lab/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/dealing-wth-missing-data-in-python-lab/</guid>
+      <description>Exemplar: Address missing data # Introduction # The datasets that data professionals use to solve problems typically contain missing values, which must be dealt with in order to achieve clean, useful data.</description>
+    </item>
+    
+    <item>
+      <title>EDA Structuing with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-structuring-with-python/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-structuring-with-python/</guid>
+      <description>Data Structuring # Throughout the following exercises, you will practice structuring data in Python. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis Using Basic Data Functions with Python</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-using-basic-data-functions-with-python/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/eda-using-basic-data-functions-with-python/</guid>
+      <description>Discovering # Throughout the following exercises, you will implement discovering skills on a dataset. Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics.</description>
+    </item>
+    
+    <item>
+      <title>Course 3 Terms and Definitions</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course-3-glossary/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/course-3-glossary/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Data Cleaning in Python Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-data-cleaning-in-python/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-data-cleaning-in-python/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>How to Create a Tableau Visual Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/how-to-create-a-tableau-visual/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/how-to-create-a-tableau-visual/</guid>
+      <description> </description>
     </item>
     
   </channel>

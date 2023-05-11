@@ -13,4 +13,4 @@ series_order: 2
 ---
 
 
-{{< pdfReader "Course1-terms-and-definitions.pdf" >}}
+{{< pdfReader "course2-vocabulary.pdf" >}}

@@ -1,3 +1,17 @@
+---
+title: "EDA Structuing with Python"
+date: 2023-04-27
+draft: false
+description: "exploratory data analysis structuring using python"
+showAuthor: true
+authors:
+  - "jeradacosta"
+slug:
+tags: ["Google Advanced Data Analytics Professional Certificate", "lab", "jupyter", "python"]
+series: ["Go Beyond the Numbers: Translate Data into Insights"]
+series_order: 10
+---
+
 # Data Structuring
 
 Throughout the following exercises, you will practice structuring data in Python.  Before starting on this programming exercise, we strongly recommend watching the video lecture and completing the IVQ for the associated topics. 
