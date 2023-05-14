@@ -6,7 +6,17 @@
     <description>Recent content in jupyter on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/tags/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work with Probability Distributions in Python Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-work-with-probability-distributions-in-python/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-work-with-probability-distributions-in-python/</guid>
+      <description>Annotated follow-along guide: Work with probability distributions in Python # This notebook contains the code used in the following instructional video: Work with probability distributions in Python.
+Introduction # Throughout this notebook, we will use the normal distribution to model our data.</description>
+    </item>
+    
     <item>
       <title>Explore Descriptive Statistics with Python</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/explore-descriptive-statistics/</link>
