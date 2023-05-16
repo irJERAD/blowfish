@@ -6,7 +6,17 @@
     <description>Recent content in Welcome to my digital abode :wave: on Jerad Acosta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sampling with Python Guide</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-sampling-with-python/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-sampling-with-python/</guid>
+      <description>Sampling with Python # Throughout the following exercises, you will learn to use Python to simulate random sampling and make a point estimate of a population mean based on your sample data.</description>
+      
+    </item>
+    
     <item>
       <title>Exploring Probability Distributions in Python Lab</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/explore-probability-distributions-lab/</link>
