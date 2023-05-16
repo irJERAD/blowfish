@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Exploring Sampling in Python Lab</title>
+      <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-explore-sampling/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/lab-explore-sampling/</guid>
+      <description>Exemplar: Explore sampling # Introduction # In this activity, you will engage in effective sampling of a dataset in order to make it easier to analyze. As a data professional you will often work with extremely large datasets, and utilizing proper sampling techniques helps you improve your efficiency in this work.</description>
+      
+    </item>
+    
+    <item>
       <title>Sampling with Python Guide</title>
       <link>https://jerad.xyz/google-advanced-data-analytics-professional-certificate/guide-sampling-with-python/</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
